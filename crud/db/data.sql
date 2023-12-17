@@ -15,8 +15,8 @@ CREATE TABLE `peserta` (
 
 
 INSERT INTO `peserta` (`id_peserta`, `nama`, `sekolah`, `jurusan`, `no_hp`, `alamat`) VALUES
-(1, 'RADHEN ADEBO', 'SMK BANDUNG 21', 'TKJ', '08212121212', 'KIARA CONDONG TENGAH'),
-(3, 'RADHEN ADEBOS', 'SMK PUTRA PAJAJARAN', 'MULTIMEDIA', '081212312', 'BANDUNG');
+(1, 'ALDI', 'SMA 4 BEKASI', 'IPA', '081234566', 'BEKASI'),
+(3, 'JUAN', 'SMA 4 PATI', 'IPS', '08725663271', 'PATI');
 
 
 ALTER TABLE `peserta`
